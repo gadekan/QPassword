@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<Tasks>
+		<Task name = "set numeric only input to password line edit" />
+		<Task name = "create window for new user" />
+		<Task name = "set numeric only input to password line edit" />
+		<Task name = "add image into database for user" />
+	</Tasks>
+
+	
+	<Users>
+		<User id="1" FirstName="Aniket" LastName="Gadekar" Pin="xxxxxx" image="XXXXXXX"/>
+	</Users>
+	<Accounts>
+		<Account id="1" Provider="LinkedIn" UserName="aniket99.gadekar@gmail.com" Password="AccountPassword" Hint="Hint" />
+		<Account id="2" Provider="Gmail" UserName="aniket99.gadekar@gmail.com" Password="AccountPassword" Hint="Hint" />
+	</Accounts>
+</root>
